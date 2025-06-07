@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/lyndon312/veritas-china-news-today.git/sitemap.xml
